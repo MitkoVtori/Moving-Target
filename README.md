@@ -26,4 +26,3 @@ This is a mini game for shooting at targets with numbers.
 
 # How To Start The Game
 ![Screenshot 2022-10-10 165615](https://user-images.githubusercontent.com/112943652/194885694-a834ccde-d0d9-4a18-b521-c0ad68a41b1b.png)
-![Screenshot 2022-10-10 165937](https://user-images.githubusercontent.com/112943652/194885723-cda11211-2a7c-4923-b28e-0686b7d52207.png)
