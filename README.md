@@ -1,4 +1,8 @@
 # Moving Target
+### <a href="https://github.com/MitkoVtori/Moving-Target/wiki/How-To-Play">How To play?</a>
+### <a href="https://github.com/MitkoVtori/Moving-Target/wiki/How-to-Start-the-Game">How To Start The Game?</a>
+### Where to play?
+###  <ul><li><a href="https://replit.com/@PlayerDMGAMING/Moving-Target?v=1">here</a></li></ul>
 This is a mini game for shooting at targets with numbers.
 <a href="https://replit.com/@PlayerDMGAMING/Moving-Target?v=1"><img src="https://user-images.githubusercontent.com/112943652/194871637-11f15dc0-c174-406e-936f-816ec2398011.png" /></a>
 
