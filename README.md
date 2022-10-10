@@ -1,6 +1,6 @@
 # Moving Target
 ### How To Play?
-### <ul><li><a href="https://github.com/MitkoVtori/Moving-Target/wiki/How-To-Play">=learn here</a></li></ul>
+### <ul><li><a href="https://github.com/MitkoVtori/Moving-Target/wiki/How-To-Play">learn here</a></li></ul>
 ### How to start The Game?
 ### <ul><li><a href="https://github.com/MitkoVtori/Moving-Target/wiki/How-to-Start-the-Game">check this photo</a></li></ul>
 ### Where to play?
