@@ -8,7 +8,7 @@ This is a mini game for shooting at targets with numbers.
 ###           every target has it's own number(integer).                                                                                     
                                                                                                                                           
 #           There are three options:                                                                                                       
-             Shoot {Target} {Power}: Shooting the target's number with the chosen power.                                                    
+#             Shoot {Target} {Power}: Shooting the target's number with the chosen power.                                                    
              Example: Shoot 1 200                                                                                                           
              If 200 is smaller or equal to the first's target number, your target will be reduced by the power.                            
              If 200 is bigger than your target with 5 or more, the power is too much and you'll miss the shot.                              
